@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>时间节点</title>
+	<atom:link href="http://2oil.top/blog/tag/%E6%97%B6%E9%97%B4%E8%8A%82%E7%82%B9/feed/" rel="self" type="application/rss+xml" />
+	<link>http://2oil.top/blog/</link>
+	<description></description>
+	<lastBuildDate>Sat, 19 Nov 2022 12:58:39 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>http://2oil.top/blog/wp-content/uploads/2022/09/cropped-图标-150x150.png</url>
+	<title>时间节点</title>
+	<link>http://2oil.top/blog/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>预计毕业时间倒计时</title>
+		<link>http://2oil.top/blog/2022/11/19/550/</link>
+					<comments>http://2oil.top/blog/2022/11/19/550/#respond</comments>
+		
+		<dc:creator><![CDATA[doubibobo]]></dc:creator>
+		<pubDate>Sat, 19 Nov 2022 12:58:38 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<category><![CDATA[时间节点]]></category>
+		<guid isPermaLink="false">https://2oil.top/?p=550</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+		<div class="wp-block-getwid-countdown">
+			<div class="wp-block-getwid-countdown__wrapper" >
+				<div class="wp-block-getwid-countdown__content"
+					 data-datetime="+1y +2o +0d +21h +38m +55s"     data-days="1" data-hours="1" data-minutes="1" data-seconds="1">
+				</div>
+			</div>
+		</div>
+
+		]]></content:encoded>
+					
+					<wfw:commentRss>http://2oil.top/blog/2022/11/19/550/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
