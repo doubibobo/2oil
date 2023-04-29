@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: http://2oil.top/blog/wp-sitemap.xml
+Sitemap: https://2oil.top/blog/wp-sitemap.xml
